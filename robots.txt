@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /privacy-policy
+Disallow: /terms-of-service
+Disallow: /cookie-policy
+
+Sitemap: https://rothiracalculator.app/sitemap.xml
